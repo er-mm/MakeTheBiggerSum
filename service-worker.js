@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MakeTheBiggerSum/precache-manifest.95f23962c692577f28de3354db7e731c.js"
+  "/MakeTheBiggerSum/precache-manifest.ecb2b5e0da2a990370503d2f983e3553.js"
 );
 
 self.addEventListener('message', (event) => {

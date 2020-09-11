@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/MakeTheBiggerSum/static/js/main.e3b6c813.chunk.js",
-    "main.js.map": "/MakeTheBiggerSum/static/js/main.e3b6c813.chunk.js.map",
+    "main.js": "/MakeTheBiggerSum/static/js/main.89e75362.chunk.js",
+    "main.js.map": "/MakeTheBiggerSum/static/js/main.89e75362.chunk.js.map",
     "runtime-main.js": "/MakeTheBiggerSum/static/js/runtime-main.73d87d5a.js",
     "runtime-main.js.map": "/MakeTheBiggerSum/static/js/runtime-main.73d87d5a.js.map",
-    "static/js/2.e35a6dff.chunk.js": "/MakeTheBiggerSum/static/js/2.e35a6dff.chunk.js",
-    "static/js/2.e35a6dff.chunk.js.map": "/MakeTheBiggerSum/static/js/2.e35a6dff.chunk.js.map",
+    "static/js/2.09084db3.chunk.js": "/MakeTheBiggerSum/static/js/2.09084db3.chunk.js",
+    "static/js/2.09084db3.chunk.js.map": "/MakeTheBiggerSum/static/js/2.09084db3.chunk.js.map",
     "index.html": "/MakeTheBiggerSum/index.html",
-    "precache-manifest.95f23962c692577f28de3354db7e731c.js": "/MakeTheBiggerSum/precache-manifest.95f23962c692577f28de3354db7e731c.js",
+    "precache-manifest.ecb2b5e0da2a990370503d2f983e3553.js": "/MakeTheBiggerSum/precache-manifest.ecb2b5e0da2a990370503d2f983e3553.js",
     "service-worker.js": "/MakeTheBiggerSum/service-worker.js",
-    "static/js/2.e35a6dff.chunk.js.LICENSE.txt": "/MakeTheBiggerSum/static/js/2.e35a6dff.chunk.js.LICENSE.txt"
+    "static/js/2.09084db3.chunk.js.LICENSE.txt": "/MakeTheBiggerSum/static/js/2.09084db3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.73d87d5a.js",
-    "static/js/2.e35a6dff.chunk.js",
-    "static/js/main.e3b6c813.chunk.js"
+    "static/js/2.09084db3.chunk.js",
+    "static/js/main.89e75362.chunk.js"
   ]
 }
